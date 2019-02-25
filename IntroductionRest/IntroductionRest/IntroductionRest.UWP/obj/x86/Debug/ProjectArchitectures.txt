@@ -1,0 +1,2 @@
+C:\temp\IntroductionRest\IntroductionRest\IntroductionRest\IntroductionRest.UWP\IntroductionRest.UWP.csproj;x86
+C:\temp\IntroductionRest\IntroductionRest\IntroductionRest\IntroductionRest\IntroductionRest.csproj;neutral
